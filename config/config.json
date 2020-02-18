@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "pagarme",
+    "password": "zxcv1234",
+    "database": "psp",
+    "host": "localhost",
+    "port": "32768",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "pagarme",
+    "password": "zxcv1234",
+    "database": "psp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "port": "32768"
+  },
+  "production": {
+    "username": "pagarme",
+    "password": "zxcv1234",
+    "database": "psp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "port": "32768"
+  }
+}
